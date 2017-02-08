@@ -2,12 +2,12 @@ import smtplib
 #def send_email(from_name, from_email, from_subject, from_message):
  
 
-from_addr = "winston13lindsay@gmail.com"
+from_addr = "wnlindsay@yahoo.com"
 to_addr = "winston13lindsay@gmail.com"
 from_name = "Winston"
 to_name = "Winston"
-subject = "Sub"  
-msg = "Info3180"
+subject = "Test Email"  
+msg = "This is a test email for lab  3 of Info3180"
 message = """From: {} <{}>
         To: {} <{}>
         
